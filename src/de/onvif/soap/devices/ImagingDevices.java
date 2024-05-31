@@ -2,7 +2,7 @@ package de.onvif.soap.devices;
 
 import java.net.ConnectException;
 
-import javax.xml.soap.SOAPException;
+import jakarta.xml.soap.SOAPException;
 
 import org.onvif.ver10.schema.AbsoluteFocus;
 import org.onvif.ver10.schema.FocusMove;

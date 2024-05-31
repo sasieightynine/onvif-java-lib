@@ -15,7 +15,7 @@ import java.util.Random;
 import java.util.SimpleTimeZone;
 import java.util.TimeZone;
 
-import javax.xml.soap.SOAPException;
+import jakarta.xml.soap.SOAPException;
 
 import org.apache.commons.codec.binary.Base64;
 import org.onvif.ver10.schema.Capabilities;

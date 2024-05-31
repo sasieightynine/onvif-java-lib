@@ -5,7 +5,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.List;
 
-import javax.xml.soap.SOAPException;
+import jakarta.xml.soap.SOAPException;
 
 import org.onvif.ver10.device.wsdl.GetCapabilities;
 import org.onvif.ver10.device.wsdl.GetCapabilitiesResponse;
